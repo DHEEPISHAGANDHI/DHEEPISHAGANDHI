@@ -44,13 +44,39 @@ I enjoy experimenting, learning from mistakes, and slowly improving my skills on
 - 🚀 Building small but meaningful projects  
 
 ---
+## 🧠 Core Skills
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHEEPISHAGANDHI&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHEEPISHAGANDHI&theme=tokyonight" height="160"/>
+### 🔹 FrontEnd
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
 </p>
+
+### 🔹 BackEnd
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,java,python,go,c" />
+</p>
+
+### 🔹 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,matlab,postman,notion" />
+</p>
+
+---
+
+## 📊 My Stats
+
+### 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DHEEPISHAGANDHI?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
+### 📈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHEEPISHAGANDHI&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
 
 ---
 
