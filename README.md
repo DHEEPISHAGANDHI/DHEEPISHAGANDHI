@@ -47,17 +47,17 @@ I enjoy experimenting, learning from mistakes, and slowly improving my skills on
 ## 🧠 Core Skills
 
 ### 🔹 FrontEnd
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
 </p>
 
 ### 🔹 BackEnd
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,java,python,go,c" />
 </p>
 
 ### 🔹 Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,matlab,postman,notion" />
 </p>
 
@@ -67,7 +67,7 @@ I enjoy experimenting, learning from mistakes, and slowly improving my skills on
 
 ### 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DHEEPISHAGANDHI?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/DHEEPISHA_G?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
