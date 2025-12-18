@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Dheepisha G 😄✨
+# Yeah it's me 👋 I'm Dheepisha G 😄✨
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Code+✨;Java+%7C+DSA+Explorer;Full+Stack+Web+Development+Learner;Learning+Something+New+Everyday+🌱;Enjoying+the+Coding+Journey+💙" />
