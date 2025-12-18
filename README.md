@@ -19,24 +19,6 @@ I enjoy experimenting, learning from mistakes, and slowly improving my skills on
 
 ---
 
-## 🛠️ Tech I Work With
-
-### 💻 Programming & DSA
-- ☕ Java  
-- 🧠 Data Structures & Algorithms  
-
-### 🌐 Web Development
-- 🧩 HTML  
-- 🎨 CSS  
-- ⚙️ JavaScript  
-- ⚛️ React (learning)  
-
-### 🗄️ Database
-- 🐬 MySQL  
-- 🍃 MongoDB  
-
----
-
 ## 🎯 Currently Focusing On
 - 🧩 Strengthening problem-solving skills  
 - ☕ Writing cleaner and efficient Java code  
