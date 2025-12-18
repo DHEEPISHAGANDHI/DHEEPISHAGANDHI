@@ -9,9 +9,12 @@
 ## 🌸 About Me
 
 Hey! Welcome to my GitHub 👋😊  
-I’m **Dheepisha G**, a Computer Science student who genuinely enjoys learning by doing. I love exploring how things work behind the scenes — from solving problems using **Java** 🧩 to building clean and simple **web applications** 🌐✨.
+I’m **Dheepisha G**, a Computer Science student who genuinely enjoys learning by doing.
+
+I love exploring how things work behind the scenes — from solving problems using **Java** 🧩 to building clean and simple **web applications** 🌐✨.
 
 Coding, for me, is a mix of curiosity, consistency, and creativity 🚀.  
+
 I enjoy experimenting, learning from mistakes, and slowly improving my skills one step at a time 💪💡.
 
 ---
@@ -45,8 +48,8 @@ I enjoy experimenting, learning from mistakes, and slowly improving my skills on
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHEEPISHAGANDHI&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHEEPISHAGANDHI&theme=tokyonight" height="160"/>
 </p>
 
 ---
